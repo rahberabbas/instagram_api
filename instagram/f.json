@@ -1,0 +1,554 @@
+{
+    "graphql": {
+        "shortcode_media": {
+            "__typename": "GraphSidecar",
+            "id": "2637833295291105152",
+            "shortcode": "CSbd2f-hj-A",
+            "dimensions": {
+                "height": 745,
+                "width": 750
+            },
+            "gating_info": null,
+            "fact_check_overall_rating": null,
+            "fact_check_information": null,
+            "sensitivity_friction_info": null,
+            "sharing_friction_info": {
+                "should_have_sharing_friction": false,
+                "bloks_app_url": null
+            },
+            "media_overlay_info": null,
+            "media_preview": null,
+            "display_url": "https://instagram.fdel42-1.fna.fbcdn.net/v/t51.2885-15/e15/235606604_570014014351492_1565049440132781214_n.jpg?_nc_ht=instagram.fdel42-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=_PK3221A8S0AX8xgWXt&edm=AABBvjUBAAAA&ccb=7-4&oh=b8a15eb85db83a679187ab1f08bac719&oe=611A353C&_nc_sid=83d603",
+            "display_resources": [
+                {
+                    "src": "https://instagram.fdel42-1.fna.fbcdn.net/v/t51.2885-15/e15/s640x640/235606604_570014014351492_1565049440132781214_n.jpg?_nc_ht=instagram.fdel42-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=_PK3221A8S0AX8xgWXt&edm=AABBvjUBAAAA&ccb=7-4&oh=336e8937718c2380264e54e244aa26ef&oe=611B21D4&_nc_sid=83d603",
+                    "config_width": 640,
+                    "config_height": 636
+                },
+                {
+                    "src": "https://instagram.fdel42-1.fna.fbcdn.net/v/t51.2885-15/e15/235606604_570014014351492_1565049440132781214_n.jpg?_nc_ht=instagram.fdel42-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=_PK3221A8S0AX8xgWXt&edm=AABBvjUBAAAA&ccb=7-4&oh=b8a15eb85db83a679187ab1f08bac719&oe=611A353C&_nc_sid=83d603",
+                    "config_width": 750,
+                    "config_height": 745
+                },
+                {
+                    "src": "https://instagram.fdel42-1.fna.fbcdn.net/v/t51.2885-15/e15/235606604_570014014351492_1565049440132781214_n.jpg?_nc_ht=instagram.fdel42-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=_PK3221A8S0AX8xgWXt&edm=AABBvjUBAAAA&ccb=7-4&oh=b8a15eb85db83a679187ab1f08bac719&oe=611A353C&_nc_sid=83d603",
+                    "config_width": 1080,
+                    "config_height": 1074
+                }
+            ],
+            "is_video": false,
+            "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiYThiMTk0MzE4NGQ1NGYzOTkxYWJlZGFlMWIwZjg1ZmIyNjM3ODMzMjk1MjkxMTA1MTUyIiwic2VydmVyX3Rva2VuIjoiMTYyODY5MTk2MTgxMnwyNjM3ODMzMjk1MjkxMTA1MTUyfDU5NTc2MDk5NDR8NGM2ZjhmZWFlOTdiOTRiZjc1ZmZjOWIwZGNhYTMzNmQ1MDA4MjNhMjQwY2JmZDZkNjJkYWQ0OWU5ODg5OWQ4ZCJ9LCJzaWduYXR1cmUiOiIifQ==",
+            "upcoming_event": null,
+            "edge_media_to_tagged_user": {
+                "edges": [
+                    {
+                        "node": {
+                            "user": {
+                                "full_name": "Stringthread",
+                                "followed_by_viewer": false,
+                                "id": "4775101275",
+                                "is_verified": false,
+                                "profile_pic_url": "https://instagram.fdel42-1.fna.fbcdn.net/v/t51.2885-19/s150x150/209176105_132187805610509_339702738235067911_n.jpg?_nc_ht=instagram.fdel42-1.fna.fbcdn.net&_nc_ohc=SBomIp5Nj40AX9HocJH&edm=AABBvjUBAAAA&ccb=7-4&oh=ed75e8e99c6348422d26180a15bce5ea&oe=611AE468&_nc_sid=83d603",
+                                "username": "stringthread"
+                            },
+                            "x": 0.0688889101,
+                            "y": 0.741481483
+                        }
+                    },
+                    {
+                        "node": {
+                            "user": {
+                                "full_name": "Web development | programming",
+                                "followed_by_viewer": true,
+                                "id": "46944230650",
+                                "is_verified": false,
+                                "profile_pic_url": "https://instagram.fdel42-1.fna.fbcdn.net/v/t51.2885-19/s150x150/193975458_2054674618030700_6049792334418236374_n.jpg?_nc_ht=instagram.fdel42-1.fna.fbcdn.net&_nc_ohc=lO4vUCNWrW8AX_FgZnx&edm=AABBvjUBAAAA&ccb=7-4&oh=7d02fb939fa878bf6efcdda4d99a6e06&oe=611BB5BC&_nc_sid=83d603",
+                                "username": "coder_castle"
+                            },
+                            "x": 0.472592622,
+                            "y": 0.611851871
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_caption": {
+                "edges": [
+                    {
+                        "node": {
+                            "text": "coder_castle Types of Algorithm!\n\nCreated By: @stringthread \n\nFollow @coder_castle for more!"
+                        }
+                    }
+                ]
+            },
+            "can_see_insights_as_brand": false,
+            "caption_is_edited": false,
+            "has_ranked_comments": false,
+            "like_and_view_counts_disabled": false,
+            "edge_media_to_parent_comment": {
+                "count": 1,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": null
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "id": "17971491004399592",
+                            "text": "\ud83d\udd25\ud83d\udd25\ud83d\udd25",
+                            "created_at": 1628677256,
+                            "did_report_as_spam": false,
+                            "owner": {
+                                "id": "1541512400",
+                                "is_verified": false,
+                                "profile_pic_url": "https://instagram.fdel42-1.fna.fbcdn.net/v/t51.2885-19/s150x150/166421784_864594400757250_5385640742280110287_n.jpg?_nc_ht=instagram.fdel42-1.fna.fbcdn.net&_nc_ohc=d9Dh4OuywmwAX-yg118&edm=AABBvjUBAAAA&ccb=7-4&oh=ccd1b9d591762b5ba7f9c4727d02dd97&oe=611B3377&_nc_sid=83d603",
+                                "username": "aldoignatachandra"
+                            },
+                            "viewer_has_liked": false,
+                            "edge_liked_by": {
+                                "count": 0
+                            },
+                            "is_restricted_pending": false,
+                            "edge_threaded_comments": {
+                                "count": 0,
+                                "page_info": {
+                                    "has_next_page": false,
+                                    "end_cursor": null
+                                },
+                                "edges": []
+                            }
+                        }
+                    }
+                ]
+            },
+            "edge_media_to_hoisted_comment": {
+                "edges": []
+            },
+            "edge_media_preview_comment": {
+                "count": 1,
+                "edges": [
+                    {
+                        "node": {
+                            "id": "17971491004399592",
+                            "text": "\ud83d\udd25\ud83d\udd25\ud83d\udd25",
+                            "created_at": 1628677256,
+                            "did_report_as_spam": false,
+                            "owner": {
+                                "id": "1541512400",
+                                "is_verified": false,
+                                "profile_pic_url": "https://instagram.fdel42-1.fna.fbcdn.net/v/t51.2885-19/s150x150/166421784_864594400757250_5385640742280110287_n.jpg?_nc_ht=instagram.fdel42-1.fna.fbcdn.net&_nc_ohc=d9Dh4OuywmwAX-yg118&edm=AABBvjUBAAAA&ccb=7-4&oh=ccd1b9d591762b5ba7f9c4727d02dd97&oe=611B3377&_nc_sid=83d603",
+                                "username": "aldoignatachandra"
+                            },
+                            "viewer_has_liked": false,
+                            "edge_liked_by": {
+                                "count": 0
+                            },
+                            "is_restricted_pending": false
+                        }
+                    }
+                ]
+            },
+            "comments_disabled": false,
+            "commenting_disabled_for_viewer": false,
+            "taken_at_timestamp": 1628674254,
+            "edge_media_preview_like": {
+                "count": 5,
+                "edges": []
+            },
+            "edge_media_to_sponsor_user": {
+                "edges": []
+            },
+            "is_affiliate": false,
+            "is_paid_partnership": false,
+            "location": null,
+            "viewer_has_liked": false,
+            "viewer_has_saved": false,
+            "viewer_has_saved_to_collection": false,
+            "viewer_in_photo_of_you": false,
+            "viewer_can_reshare": true,
+            "owner": {
+                "id": "46944230650",
+                "is_verified": false,
+                "profile_pic_url": "https://instagram.fdel42-1.fna.fbcdn.net/v/t51.2885-19/s150x150/193975458_2054674618030700_6049792334418236374_n.jpg?_nc_ht=instagram.fdel42-1.fna.fbcdn.net&_nc_ohc=lO4vUCNWrW8AX_FgZnx&edm=AABBvjUBAAAA&ccb=7-4&oh=7d02fb939fa878bf6efcdda4d99a6e06&oe=611BB5BC&_nc_sid=83d603",
+                "username": "coder_castle",
+                "blocked_by_viewer": false,
+                "restricted_by_viewer": false,
+                "followed_by_viewer": true,
+                "full_name": "Web development | programming",
+                "has_blocked_viewer": false,
+                "is_private": false,
+                "is_unpublished": false,
+                "requested_by_viewer": false,
+                "pass_tiering_recommendation": true,
+                "edge_owner_to_timeline_media": {
+                    "count": 78
+                },
+                "edge_followed_by": {
+                    "count": 689
+                }
+            },
+            "is_ad": false,
+            "edge_web_media_to_related_media": {
+                "edges": []
+            },
+            "coauthor_producers": [],
+            "edge_sidecar_to_children": {
+                "edges": [
+                    {
+                        "node": {
+                            "__typename": "GraphImage",
+                            "id": "2637833291952421652",
+                            "shortcode": "CSbd2c3hfsU",
+                            "dimensions": {
+                                "height": 745,
+                                "width": 750
+                            },
+                            "gating_info": null,
+                            "fact_check_overall_rating": null,
+                            "fact_check_information": null,
+                            "sensitivity_friction_info": null,
+                            "sharing_friction_info": {
+                                "should_have_sharing_friction": false,
+                                "bloks_app_url": null
+                            },
+                            "media_overlay_info": null,
+                            "media_preview": "ACop6aiiql7IUiOOCSAPz/woAypb2QTHB+UNgc9h146Gt8HNcQWcOR711OnSFoyG5Kn9CP8A9dFrdSmi4wbI2kAZ5z6e1PoooJCsDVbglxFyAvOfXPp6+n51v1jXEk0UrYG5SSV3DOAqBiR3xnI+pFMaMhkxJ8xAI6+xHbHrV6wmMM3lkH5jtI9D647e9P8APuyC3lgnaCPk5J3fXrjt261ZuGuPNxGuFIUlgvP3hu557dvTml/lYdzWooooJGvnadvXBx9e1YK2t5DtCknkAkNngFjk57YP4/gK6CigDFS1u2HzueNuBkc/Nk5OOwwR+VRraXi52sRkDPz55AAzyD1/lW9RQBVtmZUCSHMg6/8A68Y6VaoooA//2Q==",
+                            "display_url": "https://instagram.fdel42-1.fna.fbcdn.net/v/t51.2885-15/e15/235606604_570014014351492_1565049440132781214_n.jpg?_nc_ht=instagram.fdel42-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=_PK3221A8S0AX8xgWXt&edm=AABBvjUBAAAA&ccb=7-4&oh=b8a15eb85db83a679187ab1f08bac719&oe=611A353C&_nc_sid=83d603",
+                            "display_resources": [
+                                {
+                                    "src": "https://instagram.fdel42-1.fna.fbcdn.net/v/t51.2885-15/e15/s640x640/235606604_570014014351492_1565049440132781214_n.jpg?_nc_ht=instagram.fdel42-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=_PK3221A8S0AX8xgWXt&edm=AABBvjUBAAAA&ccb=7-4&oh=336e8937718c2380264e54e244aa26ef&oe=611B21D4&_nc_sid=83d603",
+                                    "config_width": 640,
+                                    "config_height": 636
+                                },
+                                {
+                                    "src": "https://instagram.fdel42-1.fna.fbcdn.net/v/t51.2885-15/e15/235606604_570014014351492_1565049440132781214_n.jpg?_nc_ht=instagram.fdel42-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=_PK3221A8S0AX8xgWXt&edm=AABBvjUBAAAA&ccb=7-4&oh=b8a15eb85db83a679187ab1f08bac719&oe=611A353C&_nc_sid=83d603",
+                                    "config_width": 750,
+                                    "config_height": 745
+                                },
+                                {
+                                    "src": "https://instagram.fdel42-1.fna.fbcdn.net/v/t51.2885-15/e15/235606604_570014014351492_1565049440132781214_n.jpg?_nc_ht=instagram.fdel42-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=_PK3221A8S0AX8xgWXt&edm=AABBvjUBAAAA&ccb=7-4&oh=b8a15eb85db83a679187ab1f08bac719&oe=611A353C&_nc_sid=83d603",
+                                    "config_width": 1080,
+                                    "config_height": 1074
+                                }
+                            ],
+                            "accessibility_caption": "Photo shared by Web development | programming on August 11, 2021 tagging @stringthread, and @coder_castle. May be a cartoon of 1 person and text that says 'Types of Algorithm Swipe>'.",
+                            "is_video": false,
+                            "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiYThiMTk0MzE4NGQ1NGYzOTkxYWJlZGFlMWIwZjg1ZmIyNjM3ODMzMjkxOTUyNDIxNjUyIiwic2VydmVyX3Rva2VuIjoiMTYyODY5MTk2MTgzN3wyNjM3ODMzMjkxOTUyNDIxNjUyfDU5NTc2MDk5NDR8MmE1MzM0ODI1MGI1ZDE4MmRiNjdhZGMxMWE1N2JmYTI3NGQzYThlOGUyZDg3OWNkZjg0MzFjMTJjZjNmYTBlNyJ9LCJzaWduYXR1cmUiOiIifQ==",
+                            "upcoming_event": null,
+                            "edge_media_to_tagged_user": {
+                                "edges": [
+                                    {
+                                        "node": {
+                                            "user": {
+                                                "full_name": "Stringthread",
+                                                "followed_by_viewer": false,
+                                                "id": "4775101275",
+                                                "is_verified": false,
+                                                "profile_pic_url": "https://instagram.fdel42-1.fna.fbcdn.net/v/t51.2885-19/s150x150/209176105_132187805610509_339702738235067911_n.jpg?_nc_ht=instagram.fdel42-1.fna.fbcdn.net&_nc_ohc=SBomIp5Nj40AX9HocJH&edm=AABBvjUBAAAA&ccb=7-4&oh=ed75e8e99c6348422d26180a15bce5ea&oe=611AE468&_nc_sid=83d603",
+                                                "username": "stringthread"
+                                            },
+                                            "x": 0.0688889101,
+                                            "y": 0.741481483
+                                        }
+                                    },
+                                    {
+                                        "node": {
+                                            "user": {
+                                                "full_name": "Web development | programming",
+                                                "followed_by_viewer": true,
+                                                "id": "46944230650",
+                                                "is_verified": false,
+                                                "profile_pic_url": "https://instagram.fdel42-1.fna.fbcdn.net/v/t51.2885-19/s150x150/193975458_2054674618030700_6049792334418236374_n.jpg?_nc_ht=instagram.fdel42-1.fna.fbcdn.net&_nc_ohc=lO4vUCNWrW8AX_FgZnx&edm=AABBvjUBAAAA&ccb=7-4&oh=7d02fb939fa878bf6efcdda4d99a6e06&oe=611BB5BC&_nc_sid=83d603",
+                                                "username": "coder_castle"
+                                            },
+                                            "x": 0.472592622,
+                                            "y": 0.611851871
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "__typename": "GraphImage",
+                            "id": "2637833291650391652",
+                            "shortcode": "CSbd2clhV5k",
+                            "dimensions": {
+                                "height": 745,
+                                "width": 750
+                            },
+                            "gating_info": null,
+                            "fact_check_overall_rating": null,
+                            "fact_check_information": null,
+                            "sensitivity_friction_info": null,
+                            "sharing_friction_info": {
+                                "should_have_sharing_friction": false,
+                                "bloks_app_url": null
+                            },
+                            "media_overlay_info": null,
+                            "media_preview": "ACop55GQDDKSc9c449KkXYxyEJAHPJ4569PT1qtVhI8HOVIPbd/h6UALsBAIRuoJ57fl39aeyoBny29znj+X+TRnI/hAI+7vP6/4elNdQ3AKj1+YnNAEbPGRgKQfXd/Soacy7Tj09KbQBYQ4UfKD7nFGB02/y/z/APWqAHHIp4YHg8e/6+nrQBISORtwce1N3p6fyqReee30/wDrUh5+nX8PyoAjZkPYj6YqI1IduOn6/wD1qjoAUHHNLvPt+QptFAC54xRmkooAKKKKAP/Z",
+                            "display_url": "https://instagram.fdel42-1.fna.fbcdn.net/v/t51.2885-15/e15/235723336_4039702916129001_7745619858619831396_n.jpg?_nc_ht=instagram.fdel42-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=93MGjpp-VNIAX-RfxjX&edm=AABBvjUBAAAA&ccb=7-4&oh=a3a760dca824c20d7eb1e184e0164586&oe=611A0C02&_nc_sid=83d603",
+                            "display_resources": [
+                                {
+                                    "src": "https://instagram.fdel42-1.fna.fbcdn.net/v/t51.2885-15/e15/s640x640/235723336_4039702916129001_7745619858619831396_n.jpg?_nc_ht=instagram.fdel42-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=93MGjpp-VNIAX-RfxjX&edm=AABBvjUBAAAA&ccb=7-4&oh=b4a34cfc5c11bede9bb51f3bdb58764f&oe=6119E18D&_nc_sid=83d603",
+                                    "config_width": 640,
+                                    "config_height": 636
+                                },
+                                {
+                                    "src": "https://instagram.fdel42-1.fna.fbcdn.net/v/t51.2885-15/e15/235723336_4039702916129001_7745619858619831396_n.jpg?_nc_ht=instagram.fdel42-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=93MGjpp-VNIAX-RfxjX&edm=AABBvjUBAAAA&ccb=7-4&oh=a3a760dca824c20d7eb1e184e0164586&oe=611A0C02&_nc_sid=83d603",
+                                    "config_width": 750,
+                                    "config_height": 745
+                                },
+                                {
+                                    "src": "https://instagram.fdel42-1.fna.fbcdn.net/v/t51.2885-15/e15/235723336_4039702916129001_7745619858619831396_n.jpg?_nc_ht=instagram.fdel42-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=93MGjpp-VNIAX-RfxjX&edm=AABBvjUBAAAA&ccb=7-4&oh=a3a760dca824c20d7eb1e184e0164586&oe=611A0C02&_nc_sid=83d603",
+                                    "config_width": 1080,
+                                    "config_height": 1074
+                                }
+                            ],
+                            "accessibility_caption": "Photo by Web development | programming on August 11, 2021. May be an image of text that says 'Brute Bru-foce algorithm: An algorithm that tries every possibility cample naive algorithm to find a pair that sums up to k (tries every possible pair) def find pair (arr, k): for i in range len (arr)): for j in range i+1, len(arr)): if (arr[i] +arr[j]) k: return (i,j) (i, return (-1, -1)'.",
+                            "is_video": false,
+                            "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiYThiMTk0MzE4NGQ1NGYzOTkxYWJlZGFlMWIwZjg1ZmIyNjM3ODMzMjkxNjUwMzkxNjUyIiwic2VydmVyX3Rva2VuIjoiMTYyODY5MTk2MTgzN3wyNjM3ODMzMjkxNjUwMzkxNjUyfDU5NTc2MDk5NDR8Yjk2ODY2ODJiZDAzMWI0YTk0ZWFiNzhkZmUxYmNkNWU4NDA2MjQ4MDRmMDNlZWI0MmIyYWI4OGJmYTVhY2RjNSJ9LCJzaWduYXR1cmUiOiIifQ==",
+                            "upcoming_event": null,
+                            "edge_media_to_tagged_user": {
+                                "edges": []
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "__typename": "GraphImage",
+                            "id": "2637833291625370617",
+                            "shortcode": "CSbd2ckB5P5",
+                            "dimensions": {
+                                "height": 745,
+                                "width": 750
+                            },
+                            "gating_info": null,
+                            "fact_check_overall_rating": null,
+                            "fact_check_information": null,
+                            "sensitivity_friction_info": null,
+                            "sharing_friction_info": {
+                                "should_have_sharing_friction": false,
+                                "bloks_app_url": null
+                            },
+                            "media_overlay_info": null,
+                            "media_preview": "ACop52NkGd43emDjFS/Jn7jevX/63Sq4689Ksh9/C5Bx1Lf5/KgBAq5HyNjHTPf8umO360pEeeEbjrk//W4qQsWJJ65I/wBZ/n/CmFtnzHJOeof8vfgUARSlOiqVI65Of6cVDUkjKxyuRxzk55qOgCZQMDIBz7n+WaAvsv8A31/9eo168cVJ06/N9D/9agBrrjngfQ5qOnsc84Oabg0AJRS4NJQAU4MR0JFNooAUsT1NLvb1P502igB+9vU0yiigD//Z",
+                            "display_url": "https://instagram.fdel42-1.fna.fbcdn.net/v/t51.2885-15/e15/234645431_562162098474916_611303213739634864_n.jpg?_nc_ht=instagram.fdel42-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=ZMCdcFG9QgcAX-WdZcB&tn=yxlCKBgrHKQDobwx&edm=AABBvjUBAAAA&ccb=7-4&oh=e0ba1563813f7c9bf1cd3a6dd0da51f7&oe=611B1022&_nc_sid=83d603",
+                            "display_resources": [
+                                {
+                                    "src": "https://instagram.fdel42-1.fna.fbcdn.net/v/t51.2885-15/e15/s640x640/234645431_562162098474916_611303213739634864_n.jpg?_nc_ht=instagram.fdel42-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=ZMCdcFG9QgcAX-WdZcB&tn=yxlCKBgrHKQDobwx&edm=AABBvjUBAAAA&ccb=7-4&oh=26e200b7197d8cc43991ddf90f4e1be0&oe=611AE4A0&_nc_sid=83d603",
+                                    "config_width": 640,
+                                    "config_height": 636
+                                },
+                                {
+                                    "src": "https://instagram.fdel42-1.fna.fbcdn.net/v/t51.2885-15/e15/234645431_562162098474916_611303213739634864_n.jpg?_nc_ht=instagram.fdel42-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=ZMCdcFG9QgcAX-WdZcB&tn=yxlCKBgrHKQDobwx&edm=AABBvjUBAAAA&ccb=7-4&oh=e0ba1563813f7c9bf1cd3a6dd0da51f7&oe=611B1022&_nc_sid=83d603",
+                                    "config_width": 750,
+                                    "config_height": 745
+                                },
+                                {
+                                    "src": "https://instagram.fdel42-1.fna.fbcdn.net/v/t51.2885-15/e15/234645431_562162098474916_611303213739634864_n.jpg?_nc_ht=instagram.fdel42-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=ZMCdcFG9QgcAX-WdZcB&tn=yxlCKBgrHKQDobwx&edm=AABBvjUBAAAA&ccb=7-4&oh=e0ba1563813f7c9bf1cd3a6dd0da51f7&oe=611B1022&_nc_sid=83d603",
+                                    "config_width": 1080,
+                                    "config_height": 1074
+                                }
+                            ],
+                            "accessibility_caption": "Photo by Web development | programming on August 11, 2021. May be an image of text that says 'Recursive algorithm: An algorithm that calls itself during the process Example: factorial factorial def factorial (n): if ifn<=1: n 1: return 1 else: return n factorial (n-1)'.",
+                            "is_video": false,
+                            "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiYThiMTk0MzE4NGQ1NGYzOTkxYWJlZGFlMWIwZjg1ZmIyNjM3ODMzMjkxNjI1MzcwNjE3Iiwic2VydmVyX3Rva2VuIjoiMTYyODY5MTk2MTgzN3wyNjM3ODMzMjkxNjI1MzcwNjE3fDU5NTc2MDk5NDR8NWM1N2E2YjA0ODU0MmI1YTcyZmM5MTUxZGJjNWEyZjkxYjlmNmFlODE4MDUyZmMxZjU0ZDg5ZjRjNzVhNGUzZiJ9LCJzaWduYXR1cmUiOiIifQ==",
+                            "upcoming_event": null,
+                            "edge_media_to_tagged_user": {
+                                "edges": []
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "__typename": "GraphImage",
+                            "id": "2637833291642099745",
+                            "shortcode": "CSbd2clBtgh",
+                            "dimensions": {
+                                "height": 745,
+                                "width": 750
+                            },
+                            "gating_info": null,
+                            "fact_check_overall_rating": null,
+                            "fact_check_information": null,
+                            "sensitivity_friction_info": null,
+                            "sharing_friction_info": {
+                                "should_have_sharing_friction": false,
+                                "bloks_app_url": null
+                            },
+                            "media_overlay_info": null,
+                            "media_preview": "ACop5tCAcsNw9OlWY/Lc4CZ7/ex/Sqy4yM9KsCNeQR+PzY/9B7UAP8jaNrJ8xB5Lj8OPakZEjA3p17hwaaUXIGB78t+vFAjUk8fT73T8v8KAIZGU/cG38c/4VHUsoUHC8evX+oFRUASLHuGcgfU4qXecdv8Avo5PP1quDip8ntznuKABpcHoPqC38800TY7ZI75P+NMZT1pu0+hoAVm3HP8An9abRRQAVIshUYqOigCUSY7UeafSoqKAHEg9sU2iigD/2Q==",
+                            "display_url": "https://instagram.fdel42-1.fna.fbcdn.net/v/t51.2885-15/e15/235524298_520737165873939_204042430628412995_n.jpg?_nc_ht=instagram.fdel42-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=sT3EdJICn6oAX9WJlBE&edm=AABBvjUBAAAA&ccb=7-4&oh=7e26fe22e7af73419fdc03f0d166726f&oe=611AA54F&_nc_sid=83d603",
+                            "display_resources": [
+                                {
+                                    "src": "https://instagram.fdel42-1.fna.fbcdn.net/v/t51.2885-15/e15/s640x640/235524298_520737165873939_204042430628412995_n.jpg?_nc_ht=instagram.fdel42-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=sT3EdJICn6oAX9WJlBE&edm=AABBvjUBAAAA&ccb=7-4&oh=489af802b247e817af76d3744797b3f5&oe=611AB5B1&_nc_sid=83d603",
+                                    "config_width": 640,
+                                    "config_height": 636
+                                },
+                                {
+                                    "src": "https://instagram.fdel42-1.fna.fbcdn.net/v/t51.2885-15/e15/235524298_520737165873939_204042430628412995_n.jpg?_nc_ht=instagram.fdel42-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=sT3EdJICn6oAX9WJlBE&edm=AABBvjUBAAAA&ccb=7-4&oh=7e26fe22e7af73419fdc03f0d166726f&oe=611AA54F&_nc_sid=83d603",
+                                    "config_width": 750,
+                                    "config_height": 745
+                                },
+                                {
+                                    "src": "https://instagram.fdel42-1.fna.fbcdn.net/v/t51.2885-15/e15/235524298_520737165873939_204042430628412995_n.jpg?_nc_ht=instagram.fdel42-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=sT3EdJICn6oAX9WJlBE&edm=AABBvjUBAAAA&ccb=7-4&oh=7e26fe22e7af73419fdc03f0d166726f&oe=611AA54F&_nc_sid=83d603",
+                                    "config_width": 1080,
+                                    "config_height": 1074
+                                }
+                            ],
+                            "accessibility_caption": "Photo by Web development | programming on August 11, 2021. May be an image of text.",
+                            "is_video": false,
+                            "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiYThiMTk0MzE4NGQ1NGYzOTkxYWJlZGFlMWIwZjg1ZmIyNjM3ODMzMjkxNjQyMDk5NzQ1Iiwic2VydmVyX3Rva2VuIjoiMTYyODY5MTk2MTgzN3wyNjM3ODMzMjkxNjQyMDk5NzQ1fDU5NTc2MDk5NDR8M2Y2MzQ5MzBhMTAwMmM0M2EwYTA1M2ZkODZkN2NiNzkxODU3ZTAzNTk1NjJjN2IyZmM5ZjNkNjE2ZDkzMDVhMiJ9LCJzaWduYXR1cmUiOiIifQ==",
+                            "upcoming_event": null,
+                            "edge_media_to_tagged_user": {
+                                "edges": []
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "__typename": "GraphImage",
+                            "id": "2637833291667282093",
+                            "shortcode": "CSbd2cmhxit",
+                            "dimensions": {
+                                "height": 745,
+                                "width": 750
+                            },
+                            "gating_info": null,
+                            "fact_check_overall_rating": null,
+                            "fact_check_information": null,
+                            "sensitivity_friction_info": null,
+                            "sharing_friction_info": {
+                                "should_have_sharing_friction": false,
+                                "bloks_app_url": null
+                            },
+                            "media_overlay_info": null,
+                            "media_preview": "ACopwEaPABQsw6kHr+GKcNnXy2/M/wCFQo2056/n/SrZUr8vOOezfhxmgCIhCCAjBuMc5789v1pT5eOEbPPfj+X59Kcc/exxwB97v36/p3pTkZAHT2Ycnt179aAIi0ePuEZ6HJ/w5qvU0px8mOmOec/kTUNAEipnnK/iRUm84zhP0qAHHIqYHjn/AA/n1oAOR/c5Ptx/hRkj+5xn0/z9KAB6/qKY6gdP5igBJDn0/CmUUUAFO3Gm0UASb/YUm/2FMooAUnNJRRQB/9k=",
+                            "display_url": "https://instagram.fdel42-1.fna.fbcdn.net/v/t51.2885-15/e15/234486585_658030612257842_526503658313785619_n.jpg?_nc_ht=instagram.fdel42-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=g9QY6QWD9OwAX-bjMRM&edm=AABBvjUBAAAA&ccb=7-4&oh=ff628756e0e9f67edbc61834dd5cdebf&oe=611B4FAB&_nc_sid=83d603",
+                            "display_resources": [
+                                {
+                                    "src": "https://instagram.fdel42-1.fna.fbcdn.net/v/t51.2885-15/e15/s640x640/234486585_658030612257842_526503658313785619_n.jpg?_nc_ht=instagram.fdel42-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=g9QY6QWD9OwAX-bjMRM&edm=AABBvjUBAAAA&ccb=7-4&oh=a7563bf5503cfd3ccea353a73ede2c6e&oe=611A39D5&_nc_sid=83d603",
+                                    "config_width": 640,
+                                    "config_height": 636
+                                },
+                                {
+                                    "src": "https://instagram.fdel42-1.fna.fbcdn.net/v/t51.2885-15/e15/234486585_658030612257842_526503658313785619_n.jpg?_nc_ht=instagram.fdel42-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=g9QY6QWD9OwAX-bjMRM&edm=AABBvjUBAAAA&ccb=7-4&oh=ff628756e0e9f67edbc61834dd5cdebf&oe=611B4FAB&_nc_sid=83d603",
+                                    "config_width": 750,
+                                    "config_height": 745
+                                },
+                                {
+                                    "src": "https://instagram.fdel42-1.fna.fbcdn.net/v/t51.2885-15/e15/234486585_658030612257842_526503658313785619_n.jpg?_nc_ht=instagram.fdel42-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=g9QY6QWD9OwAX-bjMRM&edm=AABBvjUBAAAA&ccb=7-4&oh=ff628756e0e9f67edbc61834dd5cdebf&oe=611B4FAB&_nc_sid=83d603",
+                                    "config_width": 1080,
+                                    "config_height": 1074
+                                }
+                            ],
+                            "accessibility_caption": "Photo by Web development | programming on August 11, 2021. May be an image of text that says 'Backtracking algorithm: An algorithm that tries all the possible candidates and goes back as soon as it detects that the actual candidate can't be valid Example count subsets that sum def subsets up to k \u039a, i=0): return valid candidate elif or len(arr): return 0 # unvalid candidate else: return subsets_k(arr, k-arr[i], i+1) subsets_k(arr, subsets k, i+1)'.",
+                            "is_video": false,
+                            "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiYThiMTk0MzE4NGQ1NGYzOTkxYWJlZGFlMWIwZjg1ZmIyNjM3ODMzMjkxNjY3MjgyMDkzIiwic2VydmVyX3Rva2VuIjoiMTYyODY5MTk2MTgzN3wyNjM3ODMzMjkxNjY3MjgyMDkzfDU5NTc2MDk5NDR8YjY5MmZiZGIyNTUzOGJhNGY5MGU0ZWNmM2U3NWJhYmQ4YmIzNWE5NjMzMDVlODgxYmJlOTgyYTJlZDFiODI2NiJ9LCJzaWduYXR1cmUiOiIifQ==",
+                            "upcoming_event": null,
+                            "edge_media_to_tagged_user": {
+                                "edges": []
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "__typename": "GraphImage",
+                            "id": "2637833291935758616",
+                            "shortcode": "CSbd2c2h7kY",
+                            "dimensions": {
+                                "height": 745,
+                                "width": 750
+                            },
+                            "gating_info": null,
+                            "fact_check_overall_rating": null,
+                            "fact_check_information": null,
+                            "sensitivity_friction_info": null,
+                            "sharing_friction_info": {
+                                "should_have_sharing_friction": false,
+                                "bloks_app_url": null
+                            },
+                            "media_overlay_info": null,
+                            "media_preview": "ACop5yNlU/ONw9M4/GrEflycKnPu+OOnpVUDPFWti9MD/P8AwKgB4gC8MnOT/GBx6fh6mkkWOPkpkHph/wCeM00KvHAP+f8Ae/8A1UjKhGRj0/X/AHv/AK1AETtGR8qlTn1yMVFT5F2n27f5yf50ygCeIEcggZ7E4p/mEgDI9Ov59u9VgSORVjOAPp/k0AOEnbjj/aNIWyT05GM7qhYM3JFNKkdaAJJHOMcc9cHPSoaKKACnrIV6Af40yigB5c/QUm49M02igAooooA//9k=",
+                            "display_url": "https://instagram.fdel42-1.fna.fbcdn.net/v/t51.2885-15/e15/235245860_1185531645255477_3731001620915622234_n.jpg?_nc_ht=instagram.fdel42-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=QZ1JyhmxIkcAX9UZ51F&tn=yxlCKBgrHKQDobwx&edm=AABBvjUBAAAA&ccb=7-4&oh=c375d19d6d2d10dc8149335f47021986&oe=611B914E&_nc_sid=83d603",
+                            "display_resources": [
+                                {
+                                    "src": "https://instagram.fdel42-1.fna.fbcdn.net/v/t51.2885-15/e15/s640x640/235245860_1185531645255477_3731001620915622234_n.jpg?_nc_ht=instagram.fdel42-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=QZ1JyhmxIkcAX9UZ51F&tn=yxlCKBgrHKQDobwx&edm=AABBvjUBAAAA&ccb=7-4&oh=d4b2d109b6a07f594016049e2aac1321&oe=611B2DC1&_nc_sid=83d603",
+                                    "config_width": 640,
+                                    "config_height": 636
+                                },
+                                {
+                                    "src": "https://instagram.fdel42-1.fna.fbcdn.net/v/t51.2885-15/e15/235245860_1185531645255477_3731001620915622234_n.jpg?_nc_ht=instagram.fdel42-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=QZ1JyhmxIkcAX9UZ51F&tn=yxlCKBgrHKQDobwx&edm=AABBvjUBAAAA&ccb=7-4&oh=c375d19d6d2d10dc8149335f47021986&oe=611B914E&_nc_sid=83d603",
+                                    "config_width": 750,
+                                    "config_height": 745
+                                },
+                                {
+                                    "src": "https://instagram.fdel42-1.fna.fbcdn.net/v/t51.2885-15/e15/235245860_1185531645255477_3731001620915622234_n.jpg?_nc_ht=instagram.fdel42-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=QZ1JyhmxIkcAX9UZ51F&tn=yxlCKBgrHKQDobwx&edm=AABBvjUBAAAA&ccb=7-4&oh=c375d19d6d2d10dc8149335f47021986&oe=611B914E&_nc_sid=83d603",
+                                    "config_width": 1080,
+                                    "config_height": 1074
+                                }
+                            ],
+                            "accessibility_caption": "Photo by Web development | programming on August 11, 2021. May be an image of text that says 'Dynamic programming algorithm: Dynamic programming is an optimization technique for recursive solutions that have overlapping subproblems, we use dp to solve a subproblem only once Example: nth term of Fibonacci sequence def fibonaco dp [0]*(n+1) (n+1) dp[0]= for in range len (dp)): dp[]= dp[-1] dp[i-2] return dp[n]'.",
+                            "is_video": false,
+                            "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiYThiMTk0MzE4NGQ1NGYzOTkxYWJlZGFlMWIwZjg1ZmIyNjM3ODMzMjkxOTM1NzU4NjE2Iiwic2VydmVyX3Rva2VuIjoiMTYyODY5MTk2MTgzN3wyNjM3ODMzMjkxOTM1NzU4NjE2fDU5NTc2MDk5NDR8NDkwODg0Y2JkZDcwZGYxZWMzOWUzZjI3MTk1OGE0MTM0MjQzYjc1YWIyZjAzMDVmYWFmMmVhZTQzZmEwNGU3ZCJ9LCJzaWduYXR1cmUiOiIifQ==",
+                            "upcoming_event": null,
+                            "edge_media_to_tagged_user": {
+                                "edges": []
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "__typename": "GraphImage",
+                            "id": "2637833291667110970",
+                            "shortcode": "CSbd2cmhHw6",
+                            "dimensions": {
+                                "height": 745,
+                                "width": 750
+                            },
+                            "gating_info": null,
+                            "fact_check_overall_rating": null,
+                            "fact_check_information": null,
+                            "sensitivity_friction_info": null,
+                            "sharing_friction_info": {
+                                "should_have_sharing_friction": false,
+                                "bloks_app_url": null
+                            },
+                            "media_overlay_info": null,
+                            "media_preview": "ACop5tRznGQOv0/pVkeXnmNvzP8AhTIkO3PBz67v6U8FsDIBxnqW9frxQAiBBkMjHk/h6Dp+dINnXyyQenJ/ninfNzwMn3bPp69qQErwdo9iWH49e9AELjnKqVX35/Wo6lMnBXHXvk+v1xUVAEiuRx0H0zUuWx1HPPQVWqZW3fe6f5/GgBd2O4/IGoyAe9KSo7Uh2+9ADSAOhzSUUUAFPVwpyBTKKAH7z/kUyiigAooooA//2Q==",
+                            "display_url": "https://instagram.fdel42-1.fna.fbcdn.net/v/t51.2885-15/e15/235138345_238620068118795_8111657204570659943_n.jpg?_nc_ht=instagram.fdel42-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=UO_s_l0rMxEAX8rYjAm&edm=AABBvjUBAAAA&ccb=7-4&oh=1c53431b39b95241c797f06bd26a0da8&oe=611ACDDB&_nc_sid=83d603",
+                            "display_resources": [
+                                {
+                                    "src": "https://instagram.fdel42-1.fna.fbcdn.net/v/t51.2885-15/e15/s640x640/235138345_238620068118795_8111657204570659943_n.jpg?_nc_ht=instagram.fdel42-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=UO_s_l0rMxEAX8rYjAm&edm=AABBvjUBAAAA&ccb=7-4&oh=08f2cedf036e63e4d008cb249acca75c&oe=611B5233&_nc_sid=83d603",
+                                    "config_width": 640,
+                                    "config_height": 636
+                                },
+                                {
+                                    "src": "https://instagram.fdel42-1.fna.fbcdn.net/v/t51.2885-15/e15/235138345_238620068118795_8111657204570659943_n.jpg?_nc_ht=instagram.fdel42-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=UO_s_l0rMxEAX8rYjAm&edm=AABBvjUBAAAA&ccb=7-4&oh=1c53431b39b95241c797f06bd26a0da8&oe=611ACDDB&_nc_sid=83d603",
+                                    "config_width": 750,
+                                    "config_height": 745
+                                },
+                                {
+                                    "src": "https://instagram.fdel42-1.fna.fbcdn.net/v/t51.2885-15/e15/235138345_238620068118795_8111657204570659943_n.jpg?_nc_ht=instagram.fdel42-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=UO_s_l0rMxEAX8rYjAm&edm=AABBvjUBAAAA&ccb=7-4&oh=1c53431b39b95241c797f06bd26a0da8&oe=611ACDDB&_nc_sid=83d603",
+                                    "config_width": 1080,
+                                    "config_height": 1074
+                                }
+                            ],
+                            "accessibility_caption": "Photo by Web development | programming on August 11, 2021. May be an image of text that says 'Greedy algorithm: An algorithm that chooses the most optimal move at each step Example: activity selection problem (maximum number of activities in finite amount of time) def max nb_activities(activities, time_limit) activities.s count time for activity in activities: if (time+activity) time limit: break else: count time return count activity'.",
+                            "is_video": false,
+                            "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiYThiMTk0MzE4NGQ1NGYzOTkxYWJlZGFlMWIwZjg1ZmIyNjM3ODMzMjkxNjY3MTEwOTcwIiwic2VydmVyX3Rva2VuIjoiMTYyODY5MTk2MTgzN3wyNjM3ODMzMjkxNjY3MTEwOTcwfDU5NTc2MDk5NDR8YzQzYTA2ZmI5NzM2ZjQxYTIyOTYzMzExZjBjODc0YWFmNTAyOGM4NTdhYmMxOTE2M2E3OTUwMDRiZjI4NjUzMiJ9LCJzaWduYXR1cmUiOiIifQ==",
+                            "upcoming_event": null,
+                            "edge_media_to_tagged_user": {
+                                "edges": []
+                            }
+                        }
+                    }
+                ]
+            },
+            "edge_related_profiles": {
+                "edges": []
+            }
+        }
+    }
+}

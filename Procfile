@@ -1,0 +1,1 @@
+web: gunicorn instagran.wsgi:application --log-file -
