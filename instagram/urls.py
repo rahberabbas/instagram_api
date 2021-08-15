@@ -15,7 +15,7 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
-from apis.views import index,posts,reels,igtv,status
+from apis.views import index,posts,reels,igtv
 
 urlpatterns = [
     path('admin/', admin.site.urls),
@@ -23,5 +23,4 @@ urlpatterns = [
     path('api/insta-posts/', posts, name='posts'),
     path('api/insta-reels/', reels, name='reels'),
     path('api/insta-igtv/', igtv, name='igtv'),
-    path('api/insta-stories/', status, name='status'),
 ]
