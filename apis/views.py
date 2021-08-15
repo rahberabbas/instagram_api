@@ -21,7 +21,7 @@ def index(request):
         url = request.POST.get("url")
         main = "/".join(url.split("/")[:-1])
         main_url = f"{main}/?__a=1"
-        driver = webdriver.Chrome(executable_path='/Users/rahberabbasabidi/Desktop/Instagram_API/chromedriver',options=options)
+        driver = webdriver.Chrome(options=options)
         driver.get(main_url)
         json_text = driver.find_element_by_css_selector('pre').get_attribute('innerText')
         r = json.loads(json_text)
@@ -37,7 +37,7 @@ def posts(request):
         url = request.POST.get("url")
         main = "/".join(url.split("/")[:-1])
         main_url = f"{main}/?__a=1"
-        driver = webdriver.Chrome(executable_path='/Users/rahberabbasabidi/Desktop/Instagram_API/chromedriver',options=options)
+        driver = webdriver.Chrome(options=options)
         driver.get(main_url)
         json_text = driver.find_element_by_css_selector('pre').get_attribute('innerText')
         try:
@@ -72,7 +72,7 @@ def reels(request):
         url = request.POST.get("url")
         main = "/".join(url.split("/")[:-1])
         main_url = f"{main}/?__a=1"
-        driver = webdriver.Chrome(executable_path='/Users/rahberabbasabidi/Desktop/Instagram_API/chromedriver',options=options)
+        driver = webdriver.Chrome(options=options)
         driver.get(main_url)
         json_text = driver.find_element_by_css_selector('pre').get_attribute('innerText')
         try:
@@ -97,7 +97,7 @@ def igtv(request):
         url = request.POST.get("url")
         main = "/".join(url.split("/")[:-1])
         main_url = f"{main}/?__a=1"
-        driver = webdriver.Chrome(executable_path='/Users/rahberabbasabidi/Desktop/Instagram_API/chromedriver',options=options)
+        driver = webdriver.Chrome(options=options)
         driver.get(main_url)
         json_text = driver.find_element_by_css_selector('pre').get_attribute('innerText')
         if json_text:
