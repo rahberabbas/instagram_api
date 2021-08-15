@@ -11,7 +11,7 @@ options.add_argument("--headless")
 options.add_argument("--disable-gpu")
 
 
-main_url = 'https://www.instagram.com/tv/CKtHy7RhPh4/?__a=1'
+main_url = 'https://www.instagram.com/tv/CKtHy7RhPh4/'
 driver = webdriver.Chrome(options=options)
 driver.get(main_url)
 print(driver.find_element_by_xpath("/html/body").text)
