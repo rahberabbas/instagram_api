@@ -12,11 +12,12 @@ options.add_argument("--disable-gpu")
 
 
 main_url = 'https://www.instagram.com/tv/CKtHy7RhPh4/?__a=1'
-driver = webdriver.Chrome(options=options)
+driver = webdriver.Chrome(executable_path='/Users/rahberabbasabidi/Desktop/Instagram_API/chromedriver', options=options)
 driver.get(main_url)
-json_text = driver.find_element_by_css_selector('pre').get_attribute('innerText')
-if json_text:
-    r = json.loads(json_text)
-    video_url = r['graphql']['shortcode_media']['video_url']
-    name = r['graphql']['shortcode_media']['owner']['username']
-    print(video_url)
+print(driver.find_element_by_xpath("/html/body").text)
+# json_text = driver.find_element_by_css_selector('pre').get_attribute('innerText')
+# if json_text:
+#     r = json.loads(json_text)
+#     video_url = r['graphql']['shortcode_media']['video_url']
+#     name = r['graphql']['shortcode_media']['owner']['username']
+#     print(video_url)
