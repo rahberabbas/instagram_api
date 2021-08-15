@@ -3,7 +3,7 @@ from selenium.webdriver.chrome.options import Options
 import json
 
 options = Options()
-#options.headless = True
+#options.headless = True`
 options.add_argument("--window-size=1920,1080")
 user_agent = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36'
 options.add_argument(f'user-agent={user_agent}')
@@ -12,7 +12,7 @@ options.add_argument("--headless")
 
 
 main_url = 'https://www.instagram.com/tv/CKtHy7RhPh4/?__a=1'
-driver = webdriver.Chrome(executable_path='/Users/rahberabbasabidi/Desktop/Instagram_API/chromedriver', options=options)
+driver = webdriver.Chrome(options=options)
 driver.get(main_url)
 print(driver.find_element_by_xpath("/html/body").text)
 # json_text = driver.find_element_by_css_selector('pre').get_attribute('innerText')
