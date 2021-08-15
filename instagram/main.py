@@ -11,12 +11,12 @@ options.add_argument("--headless")
 options.add_argument("--disable-gpu")
 
 
-main_url = 'https://instafinsta.com/'
+main_url = 'https://instafinsta.com/insta-dp-viewer'
 driver = webdriver.Chrome(options=options)
 driver.get(main_url)
-# print(driver.find_element_by_xpath("/html/body").text)
-print (driver.find_element_by_tag_name("body").text)
-# json_text = driver.find_element_by_css_selector('pre').get_attribute('innerText')
+driver.find_element_by_name('link')
+print("OK")
+# # json_text = driver.find_element_by_css_selector('pre').get_attribute('innerText')
 # if json_text:
 #     r = json.loads(json_text)
 #     video_url = r['graphql']['shortcode_media']['video_url']
